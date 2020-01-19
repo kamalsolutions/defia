@@ -54504,3 +54504,8 @@ video {
     z-index: auto;
   }
 }
+
+/*my style*/
+#menu-toggle:checked + #menu{
+  display: block;
+}
